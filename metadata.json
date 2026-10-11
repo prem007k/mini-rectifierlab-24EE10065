@@ -1,0 +1,6 @@
+{
+  "name": "Virtual Rectifier Lab",
+  "description": "Interactive power electronics lab simulating single-phase and three-phase diode and thyristor rectifiers with R and RL loads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
